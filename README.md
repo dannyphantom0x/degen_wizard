@@ -14,6 +14,11 @@ $DWIZ is more than just an AI chatbot—it's an experiment in decentralized grow
 
 # Code
 
+This is a public repository to showcase some functions of the project. Because it is public, most of the code has been obscured or not published and it is remaining on a private repository.
+The goal of this repo is to prove that my claims are not baseless and $DWIZ is technologically backed.
+
+Obscured code includes AI evolution logic, prompt engineering, data gathering and bridging each function.
+
 ## Website Chat
 
 ## Python bot

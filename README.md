@@ -22,5 +22,7 @@ $DWIZ is more than just an AI chatbot—it's an experiment in decentralized grow
 
 # Socials
 [Website](https://degenwizard.com)
+
 [Twitter](https://x.com/wizard_terminal)
+
 [Telegram](https://t.me/degenwizard_portal)

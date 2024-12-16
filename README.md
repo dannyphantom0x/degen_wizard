@@ -12,6 +12,14 @@ Spells are the key to $DWIZ's transformation. Each spell represents milestones i
 ### The Vision
 $DWIZ is more than just an AI chatbot—it's an experiment in decentralized growth, creativity, and engagement. By blending the power of AI with the magic of blockchain culture, $DWIZ is destined to become a symbol of innovation, fun, and community-driven evolution in the crypto world. Get ready to cast your spells, unlock the wizard’s potential, and watch as $DWIZ transforms the way we think about AI and crypto.
 
+# Code
+
+## Website Chat
+
+## Python bot
+
+
+
 # Socials
 [Website](https://degenwizard.com)
 [Twitter](https://x.com/wizard_terminal)

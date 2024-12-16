@@ -16,7 +16,3 @@ $DWIZ is more than just an AI chatbot—it's an experiment in decentralized grow
 [Website](https://degenwizard.com)
 [Twitter](https://x.com/wizard_terminal)
 [Telegram](https://t.me/degenwizard_portal)
-
-Launch Date: 16th December 2024, 9PM UTC 
-
-Don’t just chase pumps, cast spells with $DWIZ!

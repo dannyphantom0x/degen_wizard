@@ -21,6 +21,7 @@ $DWIZ is more than just an AI chatbot—it's an experiment in decentralized grow
 
 
 # Socials
+[![React](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 [Website](https://degenwizard.com)
 

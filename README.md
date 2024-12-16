@@ -18,12 +18,6 @@ This is a public repository to showcase some functions of the project. Because i
 
 Obscured code includes AI evolution logic, prompt engineering, data gathering and bridging each function.
 
-## Website Chat
-
-## Python bot
-
-
-
 # Socials
 [Website](https://degenwizard.com)
 [Twitter](https://x.com/wizard_terminal)
